@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512.00001"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="safetensors-dark.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0155172"
+     inkscape:cx="280.1528"
+     inkscape:cy="202.35993"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     d="m 327.20705,241.80474 162.86131,65.35599 c 4.6862,1.87266 8.70042,5.10734 11.53182,9.27386 2.84042,4.17546 4.36365,9.09463 4.39948,14.13921 0.026,5.04464 -1.45156,9.98172 -4.24713,14.18407 -2.78667,4.20239 -6.765,7.47286 -11.43329,9.39932 l -224.60631,92.98938 c -6.20948,2.57156 -13.19844,2.57156 -19.40792,0 L 21.671822,354.18407 c -4.659323,-1.92646 -8.646667,-5.20589 -11.433281,-9.40829 -2.7955733,-4.19338 -4.2650525,-9.13046 -4.2381775,-14.17505 0.026042,-5.04463 1.5501042,-9.9638 4.3905215,-14.13927 2.831406,-4.16651 6.854583,-7.40115 11.531823,-9.28281 L 187.65131,240.68469 c 9.48886,-3.79912 39.48776,7.36531 68.3487,7.4639 30.83219,0.0984 60.58016,-10.60896 71.20704,-6.34385 z M 98.622349,331.09354 256.00001,396.23449 413.39559,331.09354 256.00001,267.92385 Z M 265.46204,64.759367 490.06836,154.88145 c 4.6862,1.88162 8.70042,5.10735 11.53182,9.28281 2.84042,4.16652 4.36365,9.08568 4.39948,14.13027 0.026,5.04463 -1.45156,9.98172 -4.24713,14.18406 -2.78667,4.2024 -6.765,7.47286 -11.43329,9.40828 l -224.60631,92.98938 c -6.20948,2.57156 -13.19844,2.57156 -19.40792,0 L 21.671822,201.90479 c -4.659323,-1.92646 -8.646667,-5.19693 -11.433281,-9.39933 -2.7955733,-4.20234 -4.2650525,-9.13942 -4.2381775,-14.18401 0.026042,-5.04463 1.5501042,-9.9638 4.3905215,-14.13927 2.831406,-4.16651 6.854583,-7.40114 11.531823,-9.27385 L 246.52902,64.759367 c 6.07506,-2.446146 12.85797,-2.446146 18.93302,0 z M 98.622349,178.81427 256.00001,243.96416 413.39559,178.81427 256.00001,115.64458 Z"
+     fill="#e7e7e7"
+     id="path3"
+     style="stroke-width:1" />
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:relation>https://huggingface.co/datasets/huggingface/documentation-images/raw/main/safetensors/safetensors-logo-dark.svg</dc:relation>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

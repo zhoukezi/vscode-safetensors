@@ -1,0 +1,78 @@
+{
+  "name": "safetensors",
+  "displayName": "safetensors viewer",
+  "description": "A .safetensors metadata viewer.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhoukezi/vscode-safetensors.git"
+  },
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "publisher": "zhoukz",
+  "categories": [
+    "Other"
+  ],
+  "icon": "icons/safetensors-light-128.png",
+  "activationEvents": [],
+  "main": "dist/extension.js",
+  "contributes": {
+    "customEditors": [
+      {
+        "viewType": "safetensors.safetensorsView",
+        "displayName": "SafeTensors Viewer",
+        "selector": [
+          {
+            "filenamePattern": "*.safetensors"
+          }
+        ],
+        "priority": "default"
+      }
+    ],
+    "languages": [
+      {
+        "id": "safetensors",
+        "extensions": [
+          ".safetensors"
+        ],
+        "icon": {
+          "light": "icons/safetensors-light.svg",
+          "dark": "icons/safetensors-dark.svg"
+        }
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "yarn run package",
+    "compile": "webpack",
+    "watch": "webpack --watch",
+    "package": "webpack --mode production --devtool hidden-source-map",
+    "lint": "eslint src --ext ts"
+  },
+  "devDependencies": {
+    "@types/node": "16.x",
+    "@types/vscode": "^1.91.0",
+    "@typescript-eslint/eslint-plugin": "^6.4.1",
+    "@typescript-eslint/parser": "^6.4.1",
+    "eslint": "^8.47.0",
+    "mini-css-extract-plugin": "^2.9.0",
+    "prettier": "^3.3.3",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.1.6",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72",
+  "dependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vscode/codicons": "^0.0.36",
+    "@vscode/webview-ui-toolkit": "^1.4.0",
+    "css-loader": "^7.1.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zod": "^3.23.8"
+  }
+}

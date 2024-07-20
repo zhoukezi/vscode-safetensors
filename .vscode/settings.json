@@ -1,0 +1,5 @@
+{
+    "typescript.tsc.autoDetect": "off",
+    "typescript.tsdk": "./node_modules/typescript/lib",
+    "svg.preview.background": "dark-transparent",
+}
